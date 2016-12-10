@@ -1,0 +1,9 @@
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\bin\Debug\calculadorIMC.exe.config
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\bin\Debug\calculadorIMC.exe
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\bin\Debug\calculadorIMC.pdb
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.csprojResolveAssemblyReference.cache
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.Form1.resources
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.Properties.Resources.resources
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.csproj.GenerateResource.Cache
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.exe
+C:\Users\servinet\Desktop\examen final\pregunta2\calculadorIMC\obj\Debug\calculadorIMC.pdb
